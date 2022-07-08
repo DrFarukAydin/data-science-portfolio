@@ -16,7 +16,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
     - [Financial Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
 
 - ## Data Visualization (Tableau)
-    - [COVID19 Mobility Evaluation](https://public.tableau.com/app/profile/omer.faruk.aydin/viz/COVID19_Mobility/GDP): Mobility during COVID19 pandemy is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
+    - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-tableau/data-visualization-tableau.ipynb): Mobility during COVID19 pandemy is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
     
 - ## Machine Learning (Jupyter-Python)
     - [Regression Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
