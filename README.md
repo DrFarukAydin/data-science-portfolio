@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository contains my personal data related works that includes state-of-art data science, data cleaning, data manipulation and machine learning, statistical tests as well as, financial analysis and crypto bot projects. This works are completed in frame of academic studies, real-life projects and hobby interests.
+This repository contains my personal data related works that includes state-of-art data science, data cleaning, data manipulation, machine learning, statistical tests, as well as, financial analysis and crypto bot projects. This works are completed in frame of academic studies, real-life projects and hobby interests.
 The tools utilized for this projects are mostly jupyter lab, but also includes further tools, e.g. Tableau. 
 
 ### Tools
