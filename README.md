@@ -10,11 +10,14 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
   - **Financial Analysis**: Mplfinance
 
 ## Contents
-- ## Data Research, Data Cleaning and Visualization (Jupyter-Python)
-    - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
+- ## Data Collection, Merging and Data Cleaning (Jupyter-Python)
+    - [Mobility Change during COVID19](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/mobility-dataframe-preparation.ipynb): In this work, Google Mobility Data, GDP per capita, weather data, COVID19 case records, city development index, traffic congestion index, fuel prices are collected, all dataframes are cleaned and merged in a single dataframe. 
     - [Data Cleaning with Human-Intelligence](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
     - [Financial Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
 
+- ## Data Visualization (Jupyter-Python)
+    - [COVID19 vs Mobility Data Visualization](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
+   
 - ## Data Visualization (Tableau)
     - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-tableau/data-visualization-tableau.ipynb): Mobility during COVID19 pandemy is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
     
