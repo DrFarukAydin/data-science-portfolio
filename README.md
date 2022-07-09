@@ -16,7 +16,8 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
     - [Financial Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
 
 - ## Data Visualization (Jupyter-Python)
-    - [COVID19 vs Mobility Data Visualization](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
+    - [COVID19 vs Mobility Data Visualization](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-python-jupyter/mobility-data-analysis-visualization.ipynb): Mobility during COVID19 pandemy is visualized in Jupyter-Notebook to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
+    
    
 - ## Data Visualization (Tableau)
     - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-tableau/data-visualization-tableau.ipynb): Mobility during COVID19 pandemy is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
