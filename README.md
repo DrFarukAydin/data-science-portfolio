@@ -29,7 +29,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
 
      
 - ## Statistical Analysis (Jupyter-Python)
-    - [ANOVA, t-test, pairwise tukey](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
+    - [Statistical Analysis of COVID19 Mobility](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/mobility-statistical-tests.ipynb): The relationships between weather, city and county development index and mobility behaviour are analyzed using Shapiro, Levene, Mann-Whitney U, Kruskal Wallis H and Dunn tests. 
     
 - ## Financial Analysis, Technical Indicators (Jupyter-Python)
     - [Technical Indicators for Financial Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
