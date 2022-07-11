@@ -12,7 +12,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
 ## Contents
 - ## Data Collection, Merging and Data Cleaning (Jupyter-Python)
     - [Mobility Change during COVID19](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/mobility-dataframe-preparation.ipynb): In this work, Google Mobility Data, GDP per capita, weather data, COVID19 case records, city development index, traffic congestion index, fuel prices are collected, all dataframes are cleaned and merged in a single dataframe. 
-    - [Data Cleaning with Human-Intelligence](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
+    - [Data Cleaning with Human-Intelligence](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb): This work contains various data cleaning methods, as well as, data imputation with ML algorithms. The importance of manual data cleaning and filling missing values for saving valuable data and maintaining bias of data is explained with a real-world case study.
     - [Financial Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
 
 - ## Data Visualization (Jupyter-Python)
