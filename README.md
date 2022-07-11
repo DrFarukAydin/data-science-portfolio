@@ -25,7 +25,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
 - ## Machine Learning (Jupyter-Python)
     - [Regression Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
     - [Classification](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
-    - [Clustering](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
+    - [Clustering Countries by COVID19 Mobility Behaviour](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb): The countries are clustered with KMeans by their mobility behaviour to draw meaningful insights. 
 
      
 - ## Statistical Analysis (Jupyter-Python)
