@@ -23,7 +23,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
     - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-tableau/data-visualization-tableau.ipynb): Mobility during COVID19 pandemy is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
     
 - ## Machine Learning (Jupyter-Python)
-    - [Regression Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
+    - [Regression Analysis: Wind Turbine Energy Output Prediction ](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/regression-wind-turbine.ipynb): To predict energy output, various imputation (LGBM Imputer, KNNImputer, etc.) and train-test split (StratifiedKFold) methods applied with various Regressors (ElasticNet, KNN Regressor, SVM, MLP Regressor (Neural Network), Decision Tree, Bagging, RandomForest, ADABoost, GradientBoosting, XGBoost, LGBM and CatBoost Regressors). 
     - [Classification](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
     - [Clustering Countries by COVID19 Mobility Behaviour](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/mobility-cluster.ipynb): The countries are clustered with KMeans and DBScan by their mobility behaviour to draw meaningful insights. 
 
