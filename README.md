@@ -33,7 +33,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
     
 - ## Financial Analysis, Technical Indicators (Jupyter-Python)
     - [Technical Indicators for Financial Analysis](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon. 
-    - [Crypto Trading Bot for Binance](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
+    - [Crypto Trading Bot for Binance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/binance-bot.ipynb): Creating a trader bot that can automatically buy/sell crypto on Binance.
     - [Crypto Trading Bot for Gate.io](https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb): It will be uploaded soon.
     
 **Contact:**
