@@ -34,7 +34,7 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
 - ## Financial Analysis, Technical Indicators (Jupyter-Python)
     - [Crypto Trading Bot for Binance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/binance-bot.ipynb): Creating a trader bot that can automatically buy/sell crypto on Binance.
     - [Crypto Trading Bot for Gate.io](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/gate-io-bot.ipynb): Creating a trader bot that can automatically buy/sell crypto on Gate.io.
-    - [Technical Indicators for Financial Analysis]([https://github.com/DrFarukAydin/data_science_portfolio/blob/master/test.ipynb](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/technical-indicators-finance.ipynb)): Functions for technical indicators, i.e., SuperTrend, MOST (Moving Stop Loss), RSI. 
+    - [Technical Indicators for Financial Analysis](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/technical-indicators-finance.ipynb): Functions for technical indicators, i.e., SuperTrend, MOST (Moving Stop Loss), RSI. 
     
 **Contact:**
 - [LinkedIn](https://www.linkedin.com/in/faruk-aydin-0350a459/?locale=en_US)
