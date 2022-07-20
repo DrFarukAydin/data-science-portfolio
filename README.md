@@ -1,6 +1,6 @@
 # Data Science Portfolio
-This repository contains my personal data related works that includes state-of-art data science, data cleaning, data manipulation, machine learning, statistical tests, as well as, financial analysis and crypto bot projects. These works are completed for academic studies, real-life projects and hobby interests.
-The tools utilized for this projects are mostly jupyter lab, but also includes further tools, e.g. Tableau. 
+This repository contains my personal data related works that includes state-of-art data science, data cleaning, data manipulation, machine learning, statistical tests, as well as financial analysis and crypto bot projects. These works are completed for academic studies, real-life projects and hobby interests.
+The tools utilized for these projects are mostly jupyter lab, but also includes further tools, e.g., Tableau. 
 
 ### Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib, Plotly
@@ -12,15 +12,15 @@ The tools utilized for this projects are mostly jupyter lab, but also includes f
 ## Contents
 - ## Data Collection, Merging and Data Cleaning (Jupyter-Python)
     - [Mobility Change during COVID19](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/mobility-dataframe-preparation.ipynb): In this work, Google Mobility Data, GDP per capita, weather data, COVID19 case records, city development index, traffic congestion index, fuel prices are collected, all dataframes are cleaned and merged in a single dataframe. 
-    - [Data Cleaning with Human-Intelligence](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb): This work contains various data cleaning methods, as well as, data imputation with ML algorithms. The importance of manual data cleaning and filling missing values for saving valuable data and maintaining bias of data is explained with a real-world case study.
-    - [Data Visualization for Financial Analysis](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/data-visualization-finance.ipynb): Candlesticks visualization with MPLFinance with Supertrend and MOST indicators, as well as, RSI.
+    - [Data Cleaning with Human-Intelligence](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/data-cleaning-for-hr-classification.ipynb): This work contains various data cleaning methods, as well as data imputation with ML algorithms. The importance of manual data cleaning and filling missing values for saving valuable data and maintaining bias of data is explained with a real-world case study.
+    - [Data Visualization for Financial Analysis](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/data-visualization-finance.ipynb): Candlesticks visualization with MPLFinance with Supertrend and MOST indicators, as well as RSI.
 
 - ## Data Visualization (Jupyter-Python)
-    - [COVID19 vs Mobility Data Visualization](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-python-jupyter/mobility-data-analysis-visualization.ipynb): Mobility during COVID19 pandemy is visualized in Jupyter-Notebook to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
+    - [COVID19 vs Mobility Data Visualization](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-python-jupyter/mobility-data-analysis-visualization.ipynb): Mobility during COVID19 pandemic is visualized in Jupyter-Notebook to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
     
    
 - ## Data Visualization (Tableau)
-    - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-tableau/data-visualization-tableau.ipynb): Mobility during COVID19 pandemy is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
+    - [COVID19 Mobility Evaluation](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-visualization-tableau/data-visualization-tableau.ipynb): Mobility during COVID19 pandemic is visualized with Tableau to get better first insight of the data. In this work mobility change is analyzed considering locations, well-being, number of cases and similar records, weather, traffic and so on.
     
 - ## Machine Learning (Jupyter-Python)
     - [Regression Analysis: Wind Turbine Energy Output Prediction ](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/machine-learning/regression-wind-turbine.ipynb): To predict energy output, various imputation (LGBM Imputer, KNNImputer, etc.) and train-test split (StratifiedKFold) methods applied with various Regressors (ElasticNet, KNN Regressor, SVM, MLP Regressor (Neural Network), Decision Tree, Bagging, RandomForest, ADABoost, GradientBoosting, XGBoost, LGBM and CatBoost Regressors). 
