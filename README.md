@@ -30,6 +30,7 @@ The tools utilized for these projects are mostly jupyter lab, but also includes 
      
 - ## Statistical Analysis (Jupyter-Python)
     - [Statistical Analysis of COVID19 Mobility](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/mobility-statistical-tests.ipynb): The relationships between weather, city and county development index and mobility behaviour are analyzed using Shapiro, Levene, Mann-Whitney U, Kruskal Wallis H and Dunn tests. 
+    - [Effect of Fuel Prices on Mobility Behavior](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/statistical-analysis/fuel-mobility-relationship.ipynb): The relationship between fuel prices and mobility behaviour are analyzed for religional holidays time range by data visualization and using Shapiro, Levene, Mann-Whitney U tests.  
     
 - ## Financial Analysis, Technical Indicators (Jupyter-Python)
     - [Crypto Trading Bot for Binance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/financial-tools/binance-bot.ipynb): Creating a trader bot that can automatically buy/sell crypto on Binance.
