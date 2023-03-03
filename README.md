@@ -13,6 +13,9 @@ The tools utilized for these projects are mostly jupyter lab, but also includes 
 - ## End-to-End Data Science Projects
     - [Fraud Detection in Insurance Claims](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb): In this work, frauds from insurance claims are detected using scikit-learn ML classification algorithms and anomality detection techniques such as oversampling with SMOTE. 86% of the frauds are catched and decisive factors are determined. 
 
+    - [Customer Segmentation for Life Insurance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb): In this work, severity of customer claims are predicted using sci-kit learn classification algorithms. 8 class of customer responses are classified. Pairwise classification is applied to increase accuracy score and 84% accuracy is achieved. 
+
+
 
 - ### Data Collection, Merging and Data Cleaning (Jupyter-Python)
     - [Mobility Change during COVID19](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/data-collection-merging-and-cleaning/mobility-dataframe-preparation.ipynb): In this work, Google Mobility Data, GDP per capita, weather data, COVID19 case records, city development index, traffic congestion index, fuel prices are collected, all dataframes are cleaned and merged in a single dataframe. 
