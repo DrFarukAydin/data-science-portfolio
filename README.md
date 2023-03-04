@@ -14,7 +14,8 @@ The tools utilized for these projects are mostly jupyter lab, but also includes 
     - [Fraud Detection in Insurance Claims](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb): In this work, frauds from insurance claims are detected using scikit-learn ML classification algorithms and anomality detection techniques such as oversampling with SMOTE. 86% of the frauds are catched and decisive factors are determined. 
 
     - [Customer Segmentation for Life Insurance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb): In this work, severity of customer claims are predicted using sci-kit learn classification algorithms. 8 class of customer responses are classified. Pairwise classification is applied to increase accuracy score and 84% accuracy is achieved. 
-
+    
+    - [Prediction of Insurance Charges](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_predict_charges.ipynb): In this work, the dataset can be used to predict insurance charges using ML regression algorithms based on the age, sex, and BMI of a customer. 81% R2 score is achieved. Finally, a pipeline is created to automate the preprocessing and modelling steps for the end users.
 
 
 - ### Data Collection, Merging and Data Cleaning (Jupyter-Python)
