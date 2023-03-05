@@ -16,6 +16,9 @@ The tools utilized for these projects are mostly jupyter lab, but also includes 
     - [Customer Segmentation for Life Insurance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb): In this work, severity of customer claims are predicted using sci-kit learn classification algorithms. 8 class of customer responses are classified. Pairwise classification is applied to increase accuracy score and 84% accuracy is achieved. 
     
     - [Prediction of Insurance Charges](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_predict_charges.ipynb): In this work, the dataset can be used to predict insurance charges using ML regression algorithms based on the age, sex, and BMI of a customer. 81% R2 score is achieved. Finally, a pipeline is created to automate the preprocessing and modelling steps for the end users.
+    
+    - [Life Expectancy Analysis](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_life_expectancy.ipynb): The factors affecting life expectancy is analysed. Regression algorithms are implemented to predict life expectancy and a pipeline is created to automate the processes. 93.9% R2 score is achieved.
+
 
 
 - ### Data Collection, Merging and Data Cleaning (Jupyter-Python)
