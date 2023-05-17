@@ -11,6 +11,9 @@ The tools utilized for these projects are mostly jupyter lab, but also includes 
 
 ### Contents
 - ## End-to-End Data Science Projects
+
+    - [Vehicle Insurance Charge Prediction](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/vehicle_insurance_prediction.ipynb): Die Aufgabe besteht in der Modellierung der zu erwartenden Schadenhöhe pro Versicherungsnehmer und Jahr anhand der Risikomerkmale der Kunden. GLM Regressors zb. TweedieRegressor, GammaRegressor und state-of-art Algorithmen wie GradientBoosting, XGB und LGBM sind ausprobiert. Nahezu perfekte Ergebnisse werden mit GradientBoosting-Algorithmen erzielt.
+    
     - [Fraud Detection in Insurance Claims](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_fraud.ipynb): In this work, frauds from insurance claims are detected using scikit-learn ML classification algorithms and anomality detection techniques such as oversampling with SMOTE. 86% of the frauds are catched and decisive factors are determined. Additionally, an [interactive Tableau dashboard](https://public.tableau.com/app/profile/omer.faruk.aydin/viz/InsuranceFraudsDashboard/Dashboard1?publish=yes) is created.
 
     - [Customer Segmentation for Life Insurance](https://github.com/DrFarukAydin/data-science-portfolio/blob/main/end-to-end-projects/insurance_customer_segmentation.ipynb): In this work, severity of customer claims are predicted using sci-kit learn classification algorithms. 8 class of customer responses are classified. Pairwise classification is applied to increase accuracy score and 84% accuracy is achieved. 
